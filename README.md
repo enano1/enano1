@@ -55,13 +55,6 @@
 
 ---
 
-### 🚀 What I'm Working On
-
-- 🔐 Building a confidential AMM using AWS Nitro Enclaves + Solidity  
-- 🧠 Deepening my knowledge in blockchain infrastructure and computer networking  
-
----
-
 ### 🌱 Fun Fact
 
 🏄 I built a surf insights app because I wanted to know the best time to catch a wave.
