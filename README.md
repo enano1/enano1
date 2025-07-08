@@ -2,7 +2,7 @@
 
 🎓 New graduate from Boston University with a B.A. in Computer Science  
 💻 Currently a Software Engineer Intern at Dominion Capital  
-🌊 Interested in full-stack development, blockchain systems, and networking  
+🌊 Interested in full-stack development, blockchain systems, and computer networking  
 
 ---
 
