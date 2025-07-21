@@ -1,4 +1,4 @@
-# Hi 👋, I'm Paul Martin Enano
+# Hi 👋, I'm Paul Martin 
 
 🎓 New graduate from Boston University with a B.A. in Computer Science  
 💻 Currently a Software Engineer Intern at Dominion Capital  
